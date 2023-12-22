@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+sklearn-pandas==2.2.0
+nltk==3.8.1
+numpy==1.23.5
+jsonpickle==3.0.2
+scikit-learn==1.2.2
+scipy==1.11.3
+requests==2.31.0
